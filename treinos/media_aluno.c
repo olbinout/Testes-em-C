@@ -17,6 +17,7 @@ int main()
         printf("Sua media foi %.1f, tente novamente\n", media);
 
     }
+    
     else
     {
         printf("Sua media foi %.1f, parabens por sua media\n", media);
